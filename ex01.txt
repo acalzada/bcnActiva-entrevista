@@ -1,1 +1,2 @@
 Fitxer de texte TXT creat amb Vim des de terminal en Mac.
+Linea editada del fitxer des de la branca "branch1".
