@@ -1,2 +1,3 @@
 Fitxer de texte TXT creat amb Vim des de terminal en Mac.
 Edicio des de la branca "master" despres de fer canvis al document des de la branca "branch1" i haver fet push.
+Linea editada del fitxer des de la branca "branch1".
