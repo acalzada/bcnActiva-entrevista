@@ -1,0 +1,1 @@
+Fitxer de texte TXT creat amb Vim des de terminal en Mac.
